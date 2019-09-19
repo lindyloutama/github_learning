@@ -1,1 +1,3 @@
-Today i had thai for lunch 
+Today we are working on git learning
+
+creating new repositories on github
